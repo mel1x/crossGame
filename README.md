@@ -1,6 +1,6 @@
 # Tik Tak Toe React App
 
-A brief description of what this project does and who it's for
+my first react application consisting of tik tak toe game 
 
 
 ## Installation
